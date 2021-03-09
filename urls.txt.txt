@@ -1,0 +1,2 @@
+https://www.example.com/product.html
+https://www.example.com/services.html

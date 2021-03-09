@@ -1,0 +1,3 @@
+https://www.javatpoint.com/aptitude/quantitative
+https://www.geeksforgeeks.org/python-accessing-key-value-in-dictionary/
+https://www.example.com/product.html
